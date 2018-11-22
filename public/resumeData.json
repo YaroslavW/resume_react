@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Brad Traversy",
+    "name":"Yaroslav Kolesnikov",
     "occupation":"Web developer, programmer and designer",
     "description":"I design and program websites and web applications of all types. I also teach web dev courses",
     "image":"profilepic1.jpg",
@@ -112,7 +112,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Coffee Cup",
+        "title":"Web-Masters-Group",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Illustrator",
         "tags":"Branding, Web Design",
