@@ -3,7 +3,7 @@
     "name":"Brad Traversy",
     "occupation":"Web developer, programmer and designer",
     "description":"I design and program websites and web applications of all types. I also teach web dev courses",
-    "image":"profilepic.jpg",
+    "image":"profilepic1.jpg",
     "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
     "email": "bradtraversy@gmail.com",
     "phone": "555-555-5555",
@@ -18,17 +18,17 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com",
+        "url":"https://www.facebook.com/Yaroslav-Web-Master-1446556072148794/?modal=admin_todo_tour",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/JroslavK",
         "className":"fa fa-twitter"
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com",
+        "url":"https://plus.google.com/u/0/115685630826486368845",
         "className":"fa fa-google-plus"
       },
       {
@@ -43,7 +43,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com",
+        "url":"https://github.com/YaroslavW",
         "className":"fa fa-github"
       },
       {
@@ -56,7 +56,7 @@
   "resume":{
     "education":[
       {
-        "school":"University of Life",
+        "school":"University of Petroskoi",
         "degree":"Master in Graphic Design",
         "graduated":"April 2007",
         "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
@@ -76,7 +76,7 @@
         "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
       },
       {
-        "company":"Super Cool Studio",
+        "company":"Web-Masters Group",
         "title":"UX Designer",
         "years":"March 2007 - February 2010",
         "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
